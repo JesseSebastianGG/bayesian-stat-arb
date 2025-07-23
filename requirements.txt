@@ -1,0 +1,12 @@
+pymc==5.13.1
+arviz
+numpy==1.26.4  # Ensure compatibility with PyMC
+pandas
+matplotlib
+seaborn
+scipy
+yfinance
+jupyterlab
+statsmodels
+tqdm
+scikit-learn
