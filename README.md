@@ -43,3 +43,6 @@ Traditional cointegration methods provide point estimates, which can be noisy an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# bayesian-stat-arb
+Comparison of classical and Bayesian cointegration parameter estimation in prototype stat arb trading
